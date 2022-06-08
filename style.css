@@ -684,6 +684,7 @@ font-size:25px;
 .gallery img{
   width: 100%;
   height: auto;
+background-color: black;
 }
 .responsive{
   margin-top: 5vw;
